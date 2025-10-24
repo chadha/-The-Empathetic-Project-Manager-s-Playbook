@@ -72,16 +72,16 @@ Risk & Issue Management: ARIDD_and_Control_Template.md is a robust tool for proa
 
 Auditability & Traceability: Establishes a clear revision history and sign-off table, ensuring full accountability for all project decisions.
 
-💼 Why This Matters
+💼 How to Use This Playbook
 
-This playbook demonstrates my ability to:
+This playbook provides a practical framework for:
 
-Lead projects with foresight and emotional intelligence.
+Leading projects with foresight and emotional intelligence.
 
-Bridge the gap between executive stakeholders and technical delivery teams.
+Bridging the gap between executive stakeholders and technical delivery teams.
 
-Build structured processes that reduce ambiguity and increase the probability of success.
+Building structured processes that reduce ambiguity and increase the probability of success.
 
-Manage the complete project lifecycle with proven, repeatable, and high-quality documentation.
+Managing the complete project lifecycle with proven, repeatable, and high-quality documentation.
 
 Feel free to browse the templates to see these principles in action.
